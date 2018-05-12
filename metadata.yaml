@@ -1,0 +1,27 @@
+_repo: French-Pathfinders-in-North-America_21543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, William Henry
+    birthdate: 1845
+    deathdate: 1907
+    gutenberg_agent_id: '24774'
+    url: http://www.gutenberg.org/2009/agents/24774
+description: ''
+gutenberg_issued: '2007-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'America -- Discovery and exploration -- French'
+title: French Pathfinders in North America
+url: http://www.gutenberg.org/ebooks/21543
